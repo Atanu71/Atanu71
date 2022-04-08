@@ -4,7 +4,7 @@ I have a passion for learning and sharing my knowledge with others as much as po
 
 Skills: Java / C# / C++
 
-- 🔭 I’m currently working on Traffic Management Project 
+- 🔭 I’m currently working on Traffic View of a city Project 
 - 👯 I’m looking to collaborate on Github 
 
 
